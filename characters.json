@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "name": "Mizuki 01",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_01.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "3",
+    "name": "Mizuki 03",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_03.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "4",
+    "name": "Mizuki 04",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_04.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "6",
+    "name": "Mizuki 06",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_06.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "7",
+    "name": "Mizuki 07",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_07.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "8",
+    "name": "Mizuki 08",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_08.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": "9",
+    "name": "Mizuki 09",
+    "character": "Mizuki",
+    "img": "Mizuki/Mizuki_09.png",
+    "color": "#CA8DB6",
+    "defaultText": {
+      "text": "something",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]

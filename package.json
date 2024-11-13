@@ -1,0 +1,17 @@
+{
+  "name": "mzk-sticker-bot-node",
+  "version": "1.0.0",
+  "description": "mzk sticker bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "longlin",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.0.0-rc2",
+    "node-telegram-bot-api": "^0.66.0",
+    "sharp": "^0.33.5"
+  }
+}
